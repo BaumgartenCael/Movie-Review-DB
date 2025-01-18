@@ -423,7 +423,7 @@ try:
   #
   # what config file should we use for this session?
   #
-  config_file = 'moviereviews-config.ini'
+  config_file = 'config-template.ini'
 
   print("Config file to use for this session?")
   print("Press ENTER to use default, or")
